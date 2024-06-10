@@ -1,0 +1,59 @@
+body{
+    background-color: #EEEEEE;
+    color: #222831;
+    font-family: "Barlow Condensed", sans-serif;
+    font-weight: lighter;
+}
+
+.main{
+    font-family: "Barlow Condensed", sans-serif;
+    font-weight: 600;
+    font-style: italic;
+    font-size: 1.5em;
+    /* position:absolute; */
+    display: inline-block;
+    margin-right: 79%;
+}
+
+.link{
+    position: relative;
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+}
+
+#body{
+    font-size: 4rem;
+    padding: 0;
+    margin: 0;
+    margin-left: 2%;
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+
+#profile{
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin-left: 100px;
+}
+
+#about{
+    font-family: "Caudex", serif;
+    margin-right: 500px;
+    font-size: 1.5rem;
+    text-align: left;
+    font-weight: 400;
+    margin-left: 300px;
+}
+
+#line{
+    margin-top: 200px;
+}
+footer{
+    text-align: center;
+    font-weight: 400;
+    font-size: 2rem;
+    margin: 10px;
+}
+
